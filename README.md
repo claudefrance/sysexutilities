@@ -10,3 +10,5 @@ DXM (Randomizer for Yamaha Dx7) https://github.com/claudefrance/sysexutilities/r
 KIM (Randomizer for Kawai K1) https://github.com/claudefrance/sysexutilities/releases/tag/KIM
 
 JDM (Randomizer for Roland JD-800) https://github.com/claudefrance/sysexutilities/releases/tag/JDM
+
+MIM (Randomizer for Korg M1) https://github.com/claudefrance/sysexutilities/releases/tag/MIM
