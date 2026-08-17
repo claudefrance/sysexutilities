@@ -12,3 +12,5 @@ KIM (Randomizer for Kawai K1) https://github.com/claudefrance/sysexutilities/rel
 JDM (Randomizer for Roland JD-800) https://github.com/claudefrance/sysexutilities/releases/tag/JDM
 
 MIM (Randomizer for Korg M1) https://github.com/claudefrance/sysexutilities/releases/tag/MIM
+
+SDM (Randomizer for Ensoniq SD1) https://github.com/claudefrance/sysexutilities/releases/tag/SDM
