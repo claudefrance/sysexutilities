@@ -14,3 +14,7 @@ JDM (Randomizer for Roland JD-800) https://github.com/claudefrance/sysexutilitie
 MIM (Randomizer for Korg M1) https://github.com/claudefrance/sysexutilities/releases/tag/MIM
 
 SDM (Randomizer for Ensoniq SD1) https://github.com/claudefrance/sysexutilities/releases/tag/SDM
+
+SYM77 (Randomizer for Yamaha SY77) https://github.com/claudefrance/sysexutilities/releases/tag/SYM77
+
+SYM55 (Randomizer for Yamaha SY55) https://github.com/claudefrance/sysexutilities/releases/tag/SYM55
