@@ -19,4 +19,4 @@ SYM77 (Randomizer for Yamaha SY77) https://github.com/claudefrance/sysexutilitie
 
 SYM55 (Randomizer for Yamaha SY55) https://github.com/claudefrance/sysexutilities/releases/tag/SYM55
 
-NLM (Randomizer for NORD LEAD 2) https://github.com/claudefrance/sysexutilities/releases/tag/NLM
+LEAM (Randomizer for NORD LEAD 2X) https://github.com/claudefrance/sysexutilities/releases/tag/LEAM
