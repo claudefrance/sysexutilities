@@ -18,3 +18,5 @@ SDM (Randomizer for Ensoniq SD1) https://github.com/claudefrance/sysexutilities/
 SYM77 (Randomizer for Yamaha SY77) https://github.com/claudefrance/sysexutilities/releases/tag/SYM77
 
 SYM55 (Randomizer for Yamaha SY55) https://github.com/claudefrance/sysexutilities/releases/tag/SYM55
+
+NLM (Randomizer for NORD LEAD 2) https://github.com/claudefrance/sysexutilities/releases/tag/NLM
